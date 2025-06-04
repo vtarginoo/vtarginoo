@@ -11,8 +11,8 @@
 <h2></h2>
   <div>
   <a href="https://github.com/vtarginoo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagomag&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomag&amp;layout=compact&amp;langs_count=7&amp;theme=dark" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vtarginoo&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtarginoo&amp;layout=compact&amp;langs_count=7&amp;theme=dark" >
 </a></div>
 <h2></h2>
 
@@ -29,6 +29,6 @@
 </div>
 
   ### Contact
-  <a href="https://www.linkedin.com/in/thiagomagdalena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a>
-   <a href="http://api.whatsapp.com/send?phone=5524992713672" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thiagomagdalena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vtarginoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank"></a>
+   <a href="http://api.whatsapp.com/send?phone=5521996800927" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vtarginoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
